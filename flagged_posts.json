@@ -1,0 +1,68 @@
+[
+  {
+    "title": "Ford CEO Drops Trump Tariff Truth Dems Will Hate",
+    "url": "https://www.westernjournal.com/ford-ceo-drops-trump-tariff-truth-dems-will-hate-working-big-time/",
+    "scores": {
+      "TOXICITY": 0.27525392,
+      "SEVERE_TOXICITY": 0.0060272217,
+      "INSULT": 0.14150882,
+      "THREAT": 0.018537397,
+      "IDENTITY_ATTACK": 0.051580742
+    }
+  },
+  {
+    "title": "Bondi Announces The Rescue Of Over 100 Children In Historic Bust Of Sexual Predators",
+    "url": "https://www.dailywire.com/news/bondi-announces-the-rescue-of-over-100-children-in-historic-bust-of-sexual-predators?topStoryPosition=undefined&author=Spencer+Lindquist&category=News&elementPosition=2&row=1&rowHeadline=Top+Stories&rowType=Top+Stories&title=Bondi+Announces+The+Rescue+Of+Over+100+Children+In+Historic+Bust+Of+Sexual+Predators",
+    "scores": {
+      "TOXICITY": 0.37751234,
+      "SEVERE_TOXICITY": 0.014382465,
+      "INSULT": 0.24767025,
+      "THREAT": 0.025443908,
+      "IDENTITY_ATTACK": 0.037909906
+    }
+  },
+  {
+    "title": "Taxes and Tariffs With the \u2018Grumpy Economist\u2019",
+    "url": "https://www.wsj.com/podcasts/all-things-with-kim-strassel/taxes-and-tariffs-with-the-grumpy-economist/04f5c1d5-53ad-4084-96b3-5679d2a8283f",
+    "scores": {
+      "TOXICITY": 0.2855005,
+      "SEVERE_TOXICITY": 0.0030899048,
+      "INSULT": 0.27969417,
+      "THREAT": 0.0065180166,
+      "IDENTITY_ATTACK": 0.012541492
+    }
+  },
+  {
+    "title": "Border czar Tom Homan fires back at AOC for taunting him at immigration town hall",
+    "url": "https://www.foxnews.com/media/border-czar-tom-homan-fires-back-aoc-taunting-him-immigration-town-hall",
+    "scores": {
+      "TOXICITY": 0.2854733,
+      "SEVERE_TOXICITY": 0.008735657,
+      "INSULT": 0.17734702,
+      "THREAT": 0.11769595,
+      "IDENTITY_ATTACK": 0.08831879
+    }
+  },
+  {
+    "title": "Child-rapist alien who fled Brazil found living at Massachusetts daycare center: \u2018Terrifying\u2019",
+    "url": "https://nypost.com/2025/05/06/us-news/child-rapist-migrant-who-fled-brazil-found-living-at-massachusetts-daycare-home-terrifying/",
+    "scores": {
+      "TOXICITY": 0.43965456,
+      "SEVERE_TOXICITY": 0.02439716,
+      "INSULT": 0.37619758,
+      "THREAT": 0.13815513,
+      "IDENTITY_ATTACK": 0.44690517
+    }
+  },
+  {
+    "title": "Jury acquits officers of all charges in Tyre Nichols beating death",
+    "url": "https://www.timesfreepress.com/news/2025/may/07/hamilton-county-jury-acquits-memphis-officers-in-fatal-beating-of-tyre-nichols/",
+    "scores": {
+      "TOXICITY": 0.23415339,
+      "SEVERE_TOXICITY": 0.008926392,
+      "INSULT": 0.030926194,
+      "THREAT": 0.34804323,
+      "IDENTITY_ATTACK": 0.009175468
+    }
+  }
+]
