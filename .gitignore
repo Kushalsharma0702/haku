@@ -1,0 +1,39 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variable file (for API keys, credentials, etc.)
+.env
+
+# Flask
+instance/
+
+# Virtualenv
+venv/
+ENV/
+
+# IDE/Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Other generated files (e.g., database files, test output, etc.)
+*.sqlite3
+*.db
+*.bak
